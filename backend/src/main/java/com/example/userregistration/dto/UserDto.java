@@ -25,7 +25,6 @@ public class UserDto {
     @Pattern(regexp = "\\d{10}", message = "Phone number must be exactly 10 digits")
     private String phone;
 
-    @NotBlank
     @Size(min = 6)
     private String password;
 }
