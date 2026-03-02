@@ -1,6 +1,6 @@
 # User Registration & Admin Dashboard
 
-A full-stack web application built with **Spring Boot 3** (backend) and **Angular 17** (frontend).
+A full-stack web application built with **Spring Boot 3** (backend) and **Angular 19** (frontend).
 
 ## Features
 
@@ -29,7 +29,7 @@ A full-stack web application built with **Spring Boot 3** (backend) and **Angula
 │       ├── dto/          # Request DTO with validation
 │       ├── exception/    # Custom exceptions
 │       └── config/       # CORS configuration
-└── frontend/         # Angular 17 standalone-component app
+└── frontend/         # Angular 19 standalone-component app
     └── src/app/
         ├── components/   # registration, admin-dashboard, edit-user
         ├── services/     # UserService (HttpClient)
