@@ -1,0 +1,10 @@
+com/example/userregistration/exception/EmailAlreadyExistsException.class
+com/example/userregistration/controller/UserController.class
+com/example/userregistration/model/User$UserBuilder.class
+com/example/userregistration/exception/UserNotFoundException.class
+com/example/userregistration/repository/UserRepository.class
+com/example/userregistration/UserRegistrationApplication.class
+com/example/userregistration/config/WebConfig.class
+com/example/userregistration/dto/UserDto.class
+com/example/userregistration/service/UserService.class
+com/example/userregistration/model/User.class
